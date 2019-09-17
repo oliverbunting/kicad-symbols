@@ -20,6 +20,12 @@ D Artix 7 T 100 XC7A100T-FTG256
 K FPGA
 $ENDCMP
 #
+$CMP XC7A12T-CPG238
+D Artix 7 T 12 XC7A12T-CPG238
+K Xilinx FPGA 
+F https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf
+$ENDCMP
+#
 $CMP XC7A15T-CPG236
 D Artix 7 T 15 XC7A15T-CPG236
 K FPGA
