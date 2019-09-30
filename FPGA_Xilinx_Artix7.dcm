@@ -22,7 +22,7 @@ $ENDCMP
 #
 $CMP XC7A12T-CPG238
 D Artix 7 T 12 XC7A12T-CPG238
-K Xilinx FPGA 
+K Xilinx FPGA
 F https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf
 $ENDCMP
 #
